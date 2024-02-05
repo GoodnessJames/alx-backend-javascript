@@ -6,4 +6,4 @@ Akoma Goodness James <[GoodnessJames](https://github.com/GoodnessJames)>
 
 ## Acknowledgements
 All work contained in this project was completed as part of the curriculum for ALX SE School. ALX SE is a full-stack software
-engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [ALX Africa](https://www.alxafrica.com/
+engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [ALX Africa](https://www.alxafrica.com)
