@@ -128,7 +128,7 @@ export default function getBudgetObject(income, gdp, capita) {
 Use computed property names to rewrite a function.
 
 ### Code:
-
+```
 function getCurrentYear() {
   const date = new Date();
   return date.getFullYear();
@@ -219,7 +219,3 @@ power of method properties.
 With each task, we gained hands-on experience and a deeper understanding of how ES6 enhances code readability and
 efficiency. This journey not only equipped me with practical skills in utilizing ES6 features but also fostered a
 playful spirit of exploration in the realm of modern JavaScript development.
-
-
-
-
